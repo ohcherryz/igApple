@@ -1,0 +1,9 @@
+# igApple
+
+This is a task for the course in the university on the 1th grade of my study.
+
+Link:
+
+https://www.figma.com/file/I2m9mLBIAwZqWmteE2bPKA/Untitled?node-id=0%3A1&t=rsCeotPth57j4AXg-1
+
+![Инфографика Apple](https://user-images.githubusercontent.com/120313863/230911097-021ab7e0-23f5-40b3-acdf-83e0679c1c7a.png)
