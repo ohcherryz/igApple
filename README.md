@@ -1,4 +1,4 @@
-# igApple
+# Инфографика Apple
 
 This is a task for the course in the university on the 1th grade of my study.
 
