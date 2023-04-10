@@ -1,8 +1,9 @@
-# Инфографика Apple
+# Инфографика. Apple
 
-This is a task for the course in the university on the 1th grade of my study.
+Задание по "Инфографике", в котором отражена основная информация о лидерующей компании в сфере IT - Apple.
+Информация размещена на небольшой карточке для наилучшей наглядности.
 
-Link:
+Ссылка на проект:
 
 https://www.figma.com/file/I2m9mLBIAwZqWmteE2bPKA/Untitled?node-id=0%3A1&t=rsCeotPth57j4AXg-1
 
